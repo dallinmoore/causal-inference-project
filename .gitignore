@@ -1,23 +1,14 @@
 # Python
 .venv
 
-# R
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-
-# Apple
-.DS_Store
-
 # Folders
 output/*
 private/*
+reading/*
+notes/*
 
 # Files
-*.pdf
 code/src/*
-!code/src/*.R
 !code/src/*.py
 !code/src/*.cpp
 !code/src/*.stan

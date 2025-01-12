@@ -17,9 +17,15 @@ mollit anim id est laborum.
   `02_clean-data.py`) and functions in `/code/src`.
 - `/data` Simulated and real data, the latter not pushed.
 - `/figures` PNG images and plots.
+- `/notes` Notes taken on the textbooks and readings.
 - `/output` Output from model runs, not pushed.
 - `/presentations` Presentation slides.
 - `/private` A catch-all folder for miscellaneous files, not pushed.
+- `/reading` Includes the textbooks, *Probabilistic Machine Learning by
+  Kevin Murphy ([An
+  Introduction](https://probml.github.io/pml-book/book1.html), [Advanced
+  Topics](https://probml.github.io/pml-book/book2.html)),* and other
+  materials used for learning.
 - `/writing` Reports, posts, and case studies.
 - `/.venv` Hidden project library, not pushed.
 - `.gitignore` Hidden Git instructions file.
