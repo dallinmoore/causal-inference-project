@@ -1,11 +1,15 @@
 ---
-title: "ASC Template"
+title: "Causal Inference Project"
 format: gfm
 ---
 
-## Description
+## Project Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For the Project, I am considering doing looking at heart rate data and asking a question like, "How does regular excercise effect average/resting heartrate?" I have my own heart rate data over multiple years that would be interesting to use.
+
+I also think that it could be interesting to look at dynamic pricing. Dynamic pricing is very interesting to me because from an economic perspective it makes sense, but is has a somewhat negative connotations in the eyes of the public. Yet, almost every store or restaurant hosts sales/deals that make items less expensive than they usually would be and airlines and hotels almost exclusively rely on dynamic pricing. I would want to answer a question such as, "What is the effect of implementing dynamic pricing on total revenue in a retail setting?" or "How does dynamic pricing for last-minute bookings affect flight revenue per seat?"
+
+Overall, I don't know the plausibility of either idea even after doing much research, but both seem very interesting to me.
 
 ## Project Organization
 
